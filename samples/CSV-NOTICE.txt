@@ -1,0 +1,4 @@
+This CSV is invented demonstration shelf data for three real public book records. It is not an export of any person’s account and does not authenticate or imply a live Goodreads connection. Titles/authors are identifying metadata only; no text, cover artwork or recordings from these books are included.
+Sources: https://www.goodreads.com/book/show/2262780.Pride_and_Prejudice
+https://www.goodreads.com/book/show/248968826-the-time-machine
+https://www.goodreads.com/book/show/6632860-a-christmas-carol
